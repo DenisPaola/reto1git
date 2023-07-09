@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+function suma(op1,op2=0,op3=1){
+
+    let sum = op1 + op2 + op3
+    console.log(sum);
+    return sum
+}
+>>>>>>> rama2
 
 function resta(op1,op2=0){
 
@@ -37,13 +46,21 @@ function numeroalcuadrado(){
 
 
 //......................................................................................
+<<<<<<< HEAD
 
+=======
+suma(4,);
+>>>>>>> rama2
 resta(12, );
 multiplicacion(20, );
 division(8, );
 numeroalcuadrado();
 
+<<<<<<< HEAD
 
+=======
+suma(4,2);
+>>>>>>> rama2
 resta(12,20);
 multiplicacion(20,10);
 division(8,2);
