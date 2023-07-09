@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-=======
 function suma(op1,op2=0,op3=1){
 
     let sum = op1 + op2 + op3
     console.log(sum);
     return sum
 }
->>>>>>> rama2
 
 function resta(op1,op2=0){
 
