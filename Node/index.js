@@ -1,9 +1,3 @@
-function suma(op1,op2=0){
-
-    let sum = op1 + op2
-    console.log(sum);
-    return sum
-}
 
 function resta(op1,op2=0){
 
@@ -43,13 +37,13 @@ function numeroalcuadrado(){
 
 
 //......................................................................................
-suma(4, );
+
 resta(12, );
 multiplicacion(20, );
 division(8, );
 numeroalcuadrado();
 
-suma(6,9);
+
 resta(12,20);
 multiplicacion(20,10);
 division(8,2);
